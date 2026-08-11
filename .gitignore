@@ -1,0 +1,12 @@
+node_modules/
+dist/                       
+web_applications_unzipped/
+web_applications_archive/
+.cache/
+.DS_Store
+web_applications/
+WebTestBench_manipulated.json
+WebTestBench_original.json
+WebTestBench_single.jsonl
+WebTestBench.json
+*.swp
